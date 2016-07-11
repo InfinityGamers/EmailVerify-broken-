@@ -1,0 +1,9 @@
+name: EmailVerify
+version: 0.1-WIP
+main: xbeastmode\emailverify\EmailVerify
+author: xBeastMode
+description: "An email verification plugin"
+
+api:
+  - 1.13.0
+  - 2.0.0
